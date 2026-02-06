@@ -230,7 +230,7 @@ const Projects: React.FC = () => {
                 title="ChatRiz"
                 category="AI Agent"
                 year="2025"
-                link="#"
+                link="https://github.com/vamshikrishnavalle-star/ChatRiz-An-AI-Chat-Agent-Integrated-with-LLM-"
                 description="24/7 customer interaction agent for websites and Telegram. Capabilities include appointment booking and client dashboards."
                 tags={chatrizTags}
             />
@@ -238,7 +238,7 @@ const Projects: React.FC = () => {
                 title="LibRizz"
                 category="Management System"
                 year="2025"
-                link="#"
+                link="https://github.com/vamshikrishnavalle-star/Librizz-Library-Management-Sytem"
                 description="Comprehensive Library Management System for efficient tracking of books and student records with custom API integration."
                 tags={librizzTags}
             />
