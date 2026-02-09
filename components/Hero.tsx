@@ -15,7 +15,7 @@ const Hero: React.FC = () => {
       {/* Background Image Container */}
       <div className="absolute inset-0 z-0">
           <img 
-              src="/images/hero.jpeg" 
+              src="https://res.cloudinary.com/duoemrmsy/image/upload/hero_gjpyi5" 
               alt="Vamshi Krishna"
               className="w-full h-full object-cover object-[70%_center] lg:object-right"
           />

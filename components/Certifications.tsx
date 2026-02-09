@@ -8,7 +8,7 @@ const Certifications: React.FC = () => {
         name: "C++ with OOPs Programming Language",
         issuer: "Cipher Schools",
         date: "July 2025",
-        logoUrl: "/images/CipherSchools.png",
+        logoUrl: "https://res.cloudinary.com/duoemrmsy/image/upload/CipherSchools_bis316",
         link: "https://www.cipherschools.com/courses/c-programming-course-beginner-friendly-with-data-structures-0c5b/overview-of-course-and-basics-of-c-program-part1-0e4f"
     },
     {

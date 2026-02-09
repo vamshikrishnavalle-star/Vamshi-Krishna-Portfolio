@@ -215,7 +215,7 @@ const Projects: React.FC = () => {
                 link="https://pencraftai.netlify.app/"
                 description="Advanced AI writing assistant mainly focusing on LinkedIn Post writing with Image Generation. Features tone customization and multi-language support."
                 tags={pencraftTags}
-                imageUrl="/images/PencraftAI.png"
+                imageUrl="https://res.cloudinary.com/duoemrmsy/image/upload/PencraftAI_oe6xsa"
             />
             <ProjectCard 
                 title="EcoGen"
@@ -224,7 +224,7 @@ const Projects: React.FC = () => {
                 link="https://aiagenticverse.shop/"
                 description="Intelligent ecosystem for business automation. Integrated Booking system with Automated Follow-up messaging and Email models built directly into the website."
                 tags={ecogenTags}
-                imageUrl="/images/EcoGen.png"
+                imageUrl="https://res.cloudinary.com/duoemrmsy/image/upload/EcoGen_cpa3nb"
             />
             <ProjectCard 
                 title="ChatRiz"
